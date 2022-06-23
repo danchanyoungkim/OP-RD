@@ -1,5 +1,4 @@
 import React, { Component } from "react";
-// import moment from 'moment';
 import "./Timer.css";
 
 class CountDown extends Component {

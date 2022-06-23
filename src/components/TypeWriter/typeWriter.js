@@ -7,7 +7,9 @@ function Type() {
       options={{
         strings: [
           "Work in progress...",
-          "Come back soon..."
+          "sugma brad...",
+          "Work in progress...",
+          "kevin silver at best..."
         ],
         autoStart: true,
         loop: true,
